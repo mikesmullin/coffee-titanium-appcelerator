@@ -28,8 +28,8 @@ curl https://raw.github.com/creationix/nvm/master/install.sh | sh
 
 ## Install Node.JS
 ```bash
-nvm install 0.8.15 # the version we're testing with
-nvm alias default 0.8.15
+nvm install 0.8.16 # the version we're testing with
+nvm alias default 0.8.16
 ```
 
 ## Install Google Android SDK
