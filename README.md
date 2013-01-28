@@ -60,6 +60,11 @@ npm install coffee-script -g
 git clone git://github.com/mikesmullin/coffee-titanium-appcelerator.git
 cd coffee-titanium-appcelerator
 npm install
+```
+
+## Building/Testing
+```bash
+npm test # executes coffee binary to perform translation to .js
 cd static
 # make sure android emulator is running before this next step
 titanium build --platform android --target emulator --deploy-type development
