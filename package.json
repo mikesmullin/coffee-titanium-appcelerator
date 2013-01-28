@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "a test",
+  "main": "static/Resources/app.js",
+  "scripts": {
+    "test": "coffee --bare -o static/Resources/ precompile/"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "gitHead": "58ef460d5c0fc22d19536ea3ad1461c7b2e8f100",
+  "devDependencies": {
+    "coffee-script": "~1.4.0"
+  }
+}
