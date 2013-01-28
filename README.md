@@ -1,5 +1,7 @@
 # Coffee + Titanium Appcelerator (CLI)
 
+![Screenshot Illustration](https://raw.github.com/mikesmullin/coffee-titanium-appcelerator/master/docs/IMG_27012013_184650.png)
+
 [Titanium Appcelerator](http://www.appcelerator.com/) allows you to write javascript once and compile to _native_ mobile device code (iOS, Android, etc.).
 They provide you with a single [Titanium API](http://docs.appcelerator.com/titanium/3.0/#!/api) which gives your javascript access to device hardware (e.g. camera), common functions (e.g. facebook graph api, importing contacts), and common ui.
 

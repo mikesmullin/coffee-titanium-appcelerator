@@ -1,5 +1,6 @@
 {
   "name": "hello",
+  "private": "true",
   "version": "0.0.1",
   "description": "a test",
   "main": "static/Resources/app.js",
